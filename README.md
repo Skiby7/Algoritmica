@@ -5,4 +5,4 @@ The naming should be self explanatory in most cases, but I will update this read
 
 ## Formulario
 
-This is maybe the most useful file (not so well) of the entire repo as it contains all the sorting algorithms, some templates of the main data structures in C and some other useful stuff.
+This is maybe the most useful file (actually, not that much) of the entire repo as it contains all the sorting algorithms, some templates of the main data structures (written in C) and some other useful stuff.
